@@ -1,5 +1,5 @@
 {
-    "name": "abstarfish1/abstartfish1",
+    "name": "Abfordstart/abfordstart",
     "description": "这是我的描述",
     "type": "\u001b[D\u001boject",
     "license": "MIT",
@@ -7,7 +7,7 @@
     "require": {"php":">5.1"},
     "autoload": {
         "psr-4": {
-            "Abstartfish1\\Startfish1\\": "src/Abstartfish1/Startfish1/"
+            "Abfordstart\\fordstart\\": "src/Abfordstart/fordstart/"
         }
         
     }
