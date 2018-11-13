@@ -4,10 +4,11 @@
     "type": "\u001b[D\u001boject",
     "license": "MIT",
     "authors": [
-    {
-    "name": "None0707",
-    "email": "htdocs@yeah.net"
-    },
+        {
+        "name": "None0707",
+        "email": "htdocs@yeah.net"
+        }
+    ],
     "minimum-stability": "dev",
     "require": {"php":">5.1"},
     "autoload": {
