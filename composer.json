@@ -7,7 +7,7 @@
     "require": {"php":">5.1"},
     "autoload":{
     	"psr-4":{
-    		"Abstartfish\\startfish":"src/Abstartfish/Startfish"
+    		"Abstartfish1\\startfish1":"src/Abstartfish1/Startfish1"
     	}
     }
 

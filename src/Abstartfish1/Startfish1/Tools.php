@@ -1,6 +1,6 @@
 <?php
 
-namespace Abstartfish\startfish;
+namespace Abstartfish1\startfish1;
 
 class Tools{
 
