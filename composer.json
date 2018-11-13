@@ -1,0 +1,14 @@
+{
+    "name": "abstarfish/abstartfish",
+    "description": "这是我的描述",
+    "type": "\u001b[D\u001boject",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {"php":">5.0"},
+    "autoload":{
+    	"psr-4":{
+    		"Abstartfish\\startfish":"src/Abstartfish/Startfish"
+    	}
+    }
+
+}
