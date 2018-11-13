@@ -5,10 +5,11 @@
     "license": "MIT",
     "minimum-stability": "dev",
     "require": {"php":">5.1"},
-    "autoload":{
-    	"psr-4":{
-    		"Abstartfish1\\startfish1":"src/Abstartfish1/Startfish1"
-    	}
+    "autoload": {
+        "psr-4": {
+            "Abstartfish1\\Startfish1\\": "src/Abstartfish1/Startfish1/"
+        }
+        
     }
 
 }
