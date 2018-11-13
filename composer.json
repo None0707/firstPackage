@@ -2,6 +2,10 @@
     "name": "abfordstart/fordstart",
     "description": "这是我的描述",
     "license": "MIT",
+    "keywords": [
+        "abfordstart",
+        "fordstart"
+    ],
     "authors": [
         {
         "name": "None0707",
